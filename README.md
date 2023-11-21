@@ -1,2 +1,2 @@
-# python-projects
-This Repository Conatins Project I have developed while learning Python 
+# Tic-Tac-toe
+A 2-player game developed using Python
